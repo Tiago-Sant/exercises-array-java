@@ -5,7 +5,7 @@ import com.letscode.arraysexercises.utils.ScannerPerson;
 
 import java.util.Scanner;
 
-public class PersonYears {
+public class AgePeople {
     public static void main(String[] args) {
 //        Person[] people = ScannerPerson.getPersons();
         Person[] people = People.getPeople();

@@ -6,7 +6,7 @@ public class Cart {
 
     public static void main(String[] args) {
 //        String[] fruits = ScannerWord.getFruits();
-        String[] fruits = {"maça", "abacaxi", "banana", "uva", "pêssego", "laranja", "ameixa"};
+        String[] fruits = {"maça", "abacaxi", "banana", "uva", "pêssego"};
 
         final int sizeOfArray = 5;
         String[]  cart = new String[sizeOfArray];
